@@ -20,7 +20,7 @@ code and analysis over the course.
 
 1. **Clone** this repo using GitHub Desktop (you should have done this
    already — if not, see the
-   [onboarding guide](https://smithlabdurham.github.io/methods/materials/onboarding.html)).
+   [pre-term preparation guide](https://smithlabdurham.github.io/methods/materials/preparation.html)).
 
 2. **Each week**, create a new `.R` file (e.g. `week2.R`, `week3.R`)
    and paste in the code you've written during the session. You can
